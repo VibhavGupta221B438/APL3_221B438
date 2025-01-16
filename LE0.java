@@ -25,7 +25,7 @@ public class LE0
         return this.name;
     }
 	public static void main(String[] args) {
-	    Juet obj=new Juet();
+	    Juet obj=new LE0();
 	    obj.setName("Vibhav");
 	    obj.setAge(21);
 	    System.out.println(obj.getName());
