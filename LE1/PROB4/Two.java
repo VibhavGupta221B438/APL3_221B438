@@ -1,0 +1,4 @@
+class Two extends One
+{
+    
+}
